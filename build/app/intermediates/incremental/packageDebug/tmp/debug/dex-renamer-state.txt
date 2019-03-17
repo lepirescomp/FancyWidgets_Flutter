@@ -1,0 +1,4 @@
+#Sun Mar 17 11:01:17 BRT 2019
+base.0=/home/leticia/AndroidStudioProjects/fancy_widgets/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
